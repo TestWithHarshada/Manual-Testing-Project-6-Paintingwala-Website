@@ -1,4 +1,4 @@
-    - Project Name - Paintingwala Website Testing
+       - Project Name - Paintingwala Website Testing
 
     🔹 Objective:
       • To verify that the website works properly across desktop, mobile, and tablet devices
