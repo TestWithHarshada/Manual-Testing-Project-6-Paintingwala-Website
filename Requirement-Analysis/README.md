@@ -1,9 +1,9 @@
        - Project Name - Paintingwala Website Testing
 
-    🔹 Objective:
+    1. Objective:
       • To verify that the website works properly across desktop, mobile, and tablet devices
     
-    🔹 Functional Requirements:
+    2. Functional Requirements:
       • User should be able to open the website
       • Navigation menu should work properly
       • Contact form should submit successfully
@@ -11,14 +11,14 @@
       • Images should load correctly
       • Social media links should work
     
-    🔹 Non-Functional Requirements:
+    3. Non-Functional Requirements:
       • Website should load quickly
       • Website should be mobile responsive
       • UI should be properly aligned
       • Website should be secure (no malicious scripts allowed)
       • Website should use HTTPS connection
     
-    🔹 Testable Modules:
+    4. Testable Modules:
       • Home Page
       • Navigation Menu
       • Contact Form
